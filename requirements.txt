@@ -1,0 +1,5 @@
+numpy==2.2.4
+opencv_python==4.10.0.84
+pandas==2.2.3
+scipy==1.15.2
+skimage==0.0
