@@ -40,6 +40,6 @@ Run the script to script **`spheroid_segmentation.py`**. The masks, segented ima
  - Run `3_machine_learning_spheroids_morpho.ipynb` to train and test the model
     
 ## 👥 Contributors
-  - **[Caroline Parent]**  
-  - **[Tiziana Tocci]**  
-  - **[Hasti Honari]**  
+  - **Caroline Parent**  
+  - **Tiziana Tocci**  
+  - **Hasti Honari**  
