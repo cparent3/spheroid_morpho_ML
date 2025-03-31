@@ -2,7 +2,7 @@
 library(miic)
 library(rjson) 
 library(tidyverse)
-setwd("/Users/tizia/Desktop/Spheroids GitHub/MIIC")
+setwd("spheroid_morpho_ML/MIIC")
 source("modules/functions_step2.R")
 
 # One network for Cell line and one network for PDX
