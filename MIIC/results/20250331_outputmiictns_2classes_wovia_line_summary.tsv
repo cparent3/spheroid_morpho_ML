@@ -1,0 +1,364 @@
+x	y	type	ai	raw_contributions	contributions	info	info_cond	cplx	Nxy_ai	info_shifted	infOrt	trueOrt	isOrtOk	sign	partial_correlation	is_causal	proba	confidence
+Area_lag0	EqDiameter_lag0	P	NA	NA	NA	615.835316	615.835316	83.017237	332	532.818079	1	NA	NA	+	1	N	0.5;0.5	NA
+Area_lag+2	EqDiameter_lag+2	P	NA	NA	NA	599.628738	599.628738	68.576248	335	531.05249	1	NA	NA	+	1	N	0.5;0.5	NA
+Area_lag+2	Energy_lag+2	P	NA	NA	NA	523.378543	523.378543	84.032625	335	439.345918	1	NA	NA	-	-0.997853837688783	N	0.5;1.56484160301952e-37	NA
+Energy_lag+2	EqDiameter_lag+2	P	NA	NA	NA	523.378543	523.378543	84.032625	335	439.345918	1	NA	NA	-	-0.997853837688783	N	1.56484160301952e-37;0.0507624030216129	NA
+Circularity_lag+2	Solidity_lag+2	P	NA	NA	NA	485.253551	485.253551	110.575667	335	374.677884	1	NA	NA	+	0.985573203273623	N	0.5;1.02926233952119e-11	NA
+Area_lag0	Energy_lag0	P	NA	NA	NA	443.707961	443.707961	107.474294	332	336.233667	-2	NA	NA	-	-0.863637764761446	N	0.999999963443738;0.5	NA
+Energy_lag0	EqDiameter_lag0	P	NA	NA	NA	443.707961	443.707961	107.474294	332	336.233667	1	NA	NA	-	-0.863637764761446	N	0.5;0.5	NA
+Circularity_lag0	Solidity_lag0	P	NA	NA	NA	413.810819	413.810819	92.100934	332	321.709885	1	NA	NA	+	0.978992314485344	N	0.5;0.5	NA
+Area_lag+1	EqDiameter_lag+1	P	NA	NA	NA	352.574654	352.574654	62.875391	197	289.699263	1	NA	NA	+	1	N	0.5;0.5	NA
+Energy_lag0	Homogeneity_lag0	P	NA	NA	NA	341.502582	341.502582	80.330654	332	261.171928	1	NA	NA	+	0.94769344381691	N	0.5;0.5	NA
+Energy_lag+2	Homogeneity_lag+2	P	NA	NA	NA	327.683038	327.683038	72.19134	335	255.491698	1	NA	NA	+	0.938742451131851	N	6.28793628819496e-32;0.195687221886127	NA
+Grey2.0_lag+2	MeanGreyValue_lag+2	P	NA	NA	NA	324.467487	324.467487	74.985142	316	249.482345	1	NA	NA	+	0.93773186310023	N	1.28107485387511e-34;0.000488593101116249	NA
+Correlation_lag+2	MeanGreyValue_lag+2	P	NA	NA	NA	300.329179	300.329179	58.191557	335	242.137622	1	NA	NA	-	-0.902290195727947	N	0.5;1.25551197390791e-35	NA
+Area_lag+1	Energy_lag+1	P	NA	NA	NA	293.796882	293.796882	54.953251	197	238.843631	-2	NA	NA	-	-0.999135924358118	N	0.99984886825834;0.5	NA
+Energy_lag+1	EqDiameter_lag+1	P	NA	NA	NA	293.796882	293.796882	54.953251	197	238.843631	1	NA	NA	-	-0.999135924358118	N	0.5;5.77656251412127e-32	NA
+Area_lag+2	Growth2.0_lag+2	P	NA	NA	NA	244.158118	244.158118	42.769271	316	201.388847	1	NA	NA	+	0.872512549145328	N	0.5;5.81768437883975e-12	NA
+EqDiameter_lag+2	Growth2.0_lag+2	P	NA	NA	NA	244.158118	244.158118	42.769271	316	201.388847	1	NA	NA	+	0.872512549145328	N	0.0119873599339058;5.81768437883975e-12	NA
+ClassN2_lag+2	MeanGreyValue_lag+2	P	NA	NA	NA	205.595932	205.595932	11.490969	335	194.104963	2	NA	NA	+	0.855185152518783	N	0.5;0.999511406898884	NA
+Circularity_lag+1	Solidity_lag+1	P	NA	NA	NA	267.54559	267.54559	76.965174	197	190.580416	1	NA	NA	+	0.978880800128081	N	0.0548657101191079;0.5	NA
+Energy_lag+2	Perimeter_lag+2	P	NA	NA	NA	259.914307	259.914307	70.804541	335	189.109766	1	NA	NA	-	-0.874395232432735	N	6.54762319493167e-24;0.5	NA
+Energy_lag0	Perimeter_lag0	P	NA	NA	NA	259.358473	259.358473	81.236431	332	178.122042	1	NA	NA	-	-0.593201429250209	N	0.5;0.5	NA
+Correlation_lag+2	Solidity_lag+2	P	NA	NA	NA	163.769609	163.769609	22.142911	335	141.626698	1	NA	NA	+	0.708453774753265	N	0.5;0.5	NA
+Correlation_lag+1	MeanGreyValue_lag+1	P	NA	NA	NA	155.107718	155.107718	40.753682	197	114.354036	1	NA	NA	-	-0.874053913212724	N	0.5;0.5	NA
+Grey1.0_lag+1	MeanGreyValue_lag+1	P	NA	NA	NA	146.962148	146.962148	33.865373	181	113.096775	1	NA	NA	+	0.909007750996701	N	0.5;0.5	NA
+ClassN2_lag+2	Grey1.0_lag+1	P	NA	NA	NA	117.173928	117.173928	10.936277	181	106.237651	-2	NA	NA	+	0.862851055745945	N	1;0.5	NA
+Circularity_lag0	Perimeter_lag0	P	NA	NA	NA	147.195961	147.195961	48.907241	332	98.28872	1	NA	NA	-	-0.686918065700201	N	0.5;0.5	NA
+Grey1.0_lag+1	Grey2.0_lag+2	P	NA	NA	NA	133.006408	133.006408	39.932028	172	93.07438	2	NA	NA	+	0.862101819948446	N	0.5;1	NA
+Area_lag+1	Energy_lag+2	P	NA	NA	NA	147.098085	147.098085	54.786178	187	92.311907	6	NA	NA	-	-0.872026899497951	N	0.909600011617233;1	NA
+Energy_lag+2	EqDiameter_lag+1	P	NA	NA	NA	147.098085	147.098085	54.786178	187	92.311907	-2	NA	NA	-	-0.872026899497951	Y	1;7.89689301698714e-26	NA
+Energy_lag+1	Perimeter_lag+1	P	NA	NA	NA	131.932107	131.932107	40.740746	197	91.191361	2	NA	NA	-	-0.841904888969373	N	0.5;0.999842709561999	NA
+Area_lag+1	Homogeneity_lag+1	P	NA	NA	NA	131.509084	131.509084	40.930606	197	90.578478	-2	NA	NA	-	-0.841879650980401	N	0.99984886825834;0.5	NA
+EqDiameter_lag+1	Homogeneity_lag+1	P	NA	NA	NA	131.509084	131.509084	40.930606	197	90.578478	1	NA	NA	-	-0.841879650980401	N	4.00910991983428e-09;0.5	NA
+Correlation_lag+2	Growth2.1_lag+2	P	NA	NA	NA	114.10416	114.10416	27.404615	187	86.699545	1	NA	NA	+	0.77011565971028	N	0.5;4.64891325651684e-16	NA
+Energy_lag+2	Homogeneity_lag+1	P	NA	NA	NA	126.517018	126.517018	40.304632	187	86.212386	-2	NA	NA	+	0.844714250584492	N	1;0.5	NA
+Area_lag+2	Energy_lag+1	P	NA	NA	NA	130.01042	130.01042	44.036545	187	85.973875	-2	NA	NA	-	-0.864984148977044	N	1;0.5	NA
+Energy_lag+1	EqDiameter_lag+2	P	NA	NA	NA	130.01042	130.01042	44.036545	187	85.973875	2	NA	NA	-	-0.864984148977044	N	0.5;1	NA
+Growth2.0_lag+2	Growth2.1_lag+2	P	NA	NA	NA	125.532256	125.532256	40.037671	172	85.494585	-2	NA	NA	+	0.872354650992004	N	0.999999999994262;0.5	NA
+Area_lag+1	Area_lag0	P	NA	NA	NA	120.716518	120.716518	46.301447	181	74.415071	6	NA	NA	+	0.776638846614642	N	1;0.999999963443738	NA
+Area_lag+1	EqDiameter_lag0	P	NA	NA	NA	120.716518	120.716518	46.301447	181	74.415071	-2	NA	NA	+	0.776638846614642	N	1;0.5	NA
+Area_lag0	EqDiameter_lag+1	P	NA	NA	NA	120.716518	120.716518	46.301447	181	74.415071	6	NA	NA	+	0.776638846614642	N	0.999999963443738;1	NA
+EqDiameter_lag+1	EqDiameter_lag0	P	NA	NA	NA	120.716518	120.716518	46.301447	181	74.415071	-2	NA	NA	+	0.776638846614642	N	1;0.5	NA
+Growth1.0_lag+1	Growth2.0_lag+2	P	NA	NA	NA	98.133202	98.133202	38.857232	172	59.27597	2	NA	NA	+	0.810115283004923	N	0.5;1	NA
+Area_lag0	Perimeter_lag0	P	Energy_lag0	0.690304	0.690304	215.282184	58.245164	9.849044	332	48.39612	1	NA	NA	+	0.766902292880297	N	0.5;0.5	NA
+EqDiameter_lag0	Perimeter_lag0	P	Energy_lag0	0.690304	0.690304	215.282184	58.245164	9.849044	332	48.39612	1	NA	NA	+	0.766902292880297	N	0.5;0.5	NA
+Growth1.0_lag+1	Homogeneity_lag+1	P	NA	NA	NA	67.240748	67.240748	21.164644	181	46.076104	-2	NA	NA	-	-0.688781011024129	N	0.900950917968107;0.5	NA
+Correlation_lag+1	Growth1.0_lag+1	P	NA	NA	NA	59.547872	59.547872	21.603232	181	37.94464	1	NA	NA	+	0.706082169882073	N	0.5;0.5	NA
+Circularity_lag+1	MeanGreyValue_lag+1	P	NA	NA	NA	52.881039	52.881039	15.030859	197	37.85018	-2	NA	NA	-	-0.604930481652744	N	0.945134289880913;0.5	NA
+Circularity_lag+1	Growth2.1_lag+2	P	NA	NA	NA	57.582038	57.582038	21.223449	187	36.358589	2	NA	NA	+	0.618882674900589	N	0.5;1	NA
+Circularity_lag0	Energy_lag0	P	NA	NA	NA	47.799895	47.799895	12.560611	332	35.239284	1	NA	NA	+	0.375568740217668	N	0.5;0.5	NA
+Solidity_lag+1	Solidity_lag+2	P	NA	NA	NA	48.688498	48.688498	14.986821	187	33.701677	2	NA	NA	+	0.526350753691381	N	0.5;1	NA
+Grey2.0_lag+2	MeanGreyValue_lag0	P	NA	NA	NA	63.08277	63.08277	34.45361	316	28.62916	-2	NA	NA	-	-0.335493427495185	Y	1;0.492337345692668	NA
+Correlation_lag0	MeanGreyValue_lag0	P	NA	NA	NA	38.901229	38.901229	15.417922	332	23.483307	6	NA	NA	-	-0.44550374274103	N	0.99950065845281;0.999991775150059	NA
+Correlation_lag0	Energy_lag0	P	NA	NA	NA	32.841126	32.841126	15.43252	332	17.408606	1	NA	NA	-	-0.261311433371274	N	0.5;0.5	NA
+Circularity_lag+1	Perimeter_lag+1	P	NA	NA	NA	31.312755	31.312755	14.436394	197	16.876361	6	NA	NA	-	-0.237225071515814	N	0.945134289880913;0.999842709561999	NA
+MeanGreyValue_lag+1	MeanGreyValue_lag+2	P	ClassN2_lag+2	0.854264	0.854264	132.088701	28.019567	14.223147	187	13.79642	2	NA	NA	+	0.393564847491891	N	0.5;1	NA
+Grey2.1_lag+2	MeanGreyValue_lag+2	P	NA	NA	NA	50.96513	50.96513	37.460914	187	13.504216	2	NA	NA	+	0.184732381752851	N	0.5;1	NA
+Energy_lag0	Growth2.0_lag+2	P	NA	NA	NA	33.729593	33.729593	21.925936	316	11.803657	2	NA	NA	-	-0.112125293126926	N	0.5;1	NA
+Growth1.0_lag+1	Homogeneity_lag+2	P	Growth2.0_lag+2	0.634708	0.634708	54.490405	24.241004	13.07154	172	11.169464	2	NA	NA	+	0.243432297401021	N	0.5;1	NA
+Correlation_lag+2	Growth1.0_lag+1	P	Growth2.0_lag+2	0.666068	0.666068	44.056351	26.393827	15.822378	172	10.571449	6	NA	NA	-	-0.101923117132412	N	1;0.900950917968107	NA
+EqDiameter_lag+2	MeanGreyValue_lag+2	P	Growth2.0_lag+2	0.954847	0.948869	161.688404	11.306958	4.843868	316	6.46309	-2	NA	NA	+	0.0996463080377825	N	0.999999170199779;0.5	NA
+Homogeneity_lag0	MeanGreyValue_lag0	P	NA	NA	NA	20.666376	20.666376	15.55189	332	5.114486	2	NA	NA	-	-0.257749869404949	N	0.5;0.999991775150059	NA
+Correlation_lag0	Grey1.0_lag+1	P	NA	NA	NA	23.103041	23.103041	18.744674	181	4.358367	6	NA	NA	+	0.10853419140712	N	0.99950065845281;1	NA
+Growth2.0_lag+2	MeanGreyValue_lag+2	P	Correlation_lag+2,EqDiameter_lag+2	0.954665,0.021915	0.954665,0.483402	195.018339	9.186901	5.269788	316	3.917113	1	NA	NA	-	-0.268219194292936	N	1.52273098414132e-15;0.000488593101179276	NA
+Circularity_lag0	Correlation_lag0	P	NA	NA	NA	13.840548	13.840548	10.217914	332	3.622634	1	NA	NA	+	0.266266011215598	N	0.5;0.5	NA
+ClassN2_lag+2	Homogeneity_lag+2	P	Growth2.0_lag+2,Homogeneity_lag+1	0.895110,0.011694	0.963243,0.330353	162.146566	9.597325	6.140267	172	3.457058	1	NA	NA	+	0.21386750705806	N	2.89109237075322e-23;0.5	NA
+MeanGreyValue_lag+2	Perimeter_lag+1	P	NA	NA	NA	18.10031	18.10031	14.956845	187	3.143465	-2	NA	NA	-	-0.0179485803132694	N	1;0.5	NA
+Homogeneity_lag+1	MeanGreyValue_lag+1	P	Correlation_lag+1	0.924398	0.924398	50.058172	8.977233	6.141889	197	2.835344	1	NA	NA	-	-0.000109536263407034	N	0.5;0.5	NA
+Grey2.0_lag+2	Grey2.1_lag+2	P	NA	NA	NA	32.110758	32.110758	29.820372	172	2.290386	-2	NA	NA	+	0.157630600226874	N	1;0.5	NA
+Growth2.1_lag+2	MeanGreyValue_lag+2	P	Correlation_lag+2,EqDiameter_lag+2	0.934197,0.042555	0.934197,0.646696	114.238284	4.753737	2.797181	187	1.956556	1	NA	NA	-	-0.423958281176304	N	4.9199597298821e-14;5.15460049708477e-27	NA
+Energy_lag+1	Growth1.0_lag+1	P	Homogeneity_lag+1	0.973402	0.973402	64.903973	8.800663	7.813793	181	0.98687	1	NA	NA	-	-0.187086605837866	N	0.5;0.5	NA
+Area_lag0	ClassN2_lag+2	P	NA	NA	NA	6.480188	6.480188	5.966887	332	0.513301	2	NA	NA	-	-0.11626067759709	N	0.5;1	NA
+ClassN2_lag+2	EqDiameter_lag0	P	NA	NA	NA	6.480188	6.480188	5.966887	332	0.513301	-2	NA	NA	-	-0.11626067759709	N	1;0.5	NA
+Growth2.0_lag+2	Perimeter_lag+2	N	EqDiameter_lag+2	1.000000	1.000000	145.680912	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag0	Homogeneity_lag0	N	Energy_lag0	1.000000	1.000000	278.162608	0	0	332	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag0	Homogeneity_lag0	N	Energy_lag0	1.000000	1.000000	278.162608	0	0	332	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+2	Homogeneity_lag+2	N	Growth2.0_lag+2	0.971814	1.000000	144.135261	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	Circularity_lag+2	N	Correlation_lag+2	1.000000	1.000000	75.197348	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+2	EqDiameter_lag+2	N	Correlation_lag+2	1.000000	1.000000	75.197348	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+2	Energy_lag+2	N	MeanGreyValue_lag+2	1.000000	1.000000	74.487628	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+2	Solidity_lag+2	N	MeanGreyValue_lag+2	1.000000	1.000000	102.226863	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	Solidity_lag+2	N	Correlation_lag+2	1.000000	1.000000	102.022609	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+2	Solidity_lag+2	N	Correlation_lag+2	1.000000	1.000000	102.022609	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+2	Homogeneity_lag+2	N	Correlation_lag+2	1.000000	1.000000	89.552816	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+2	Energy_lag+2	N	Growth2.0_lag+2	0.973142	1.000000	149.802915	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+2	Grey2.0_lag+2	N	Growth2.0_lag+2	1.000000	1.000000	128.362678	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+ClassN2_lag+2	EqDiameter_lag+2	N	Growth2.0_lag+2	0.925906	1.000000	140.41425	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	ClassN2_lag+2	N	Growth2.0_lag+2	0.925906	1.000000	140.41425	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+ClassN2_lag+2	Energy_lag+2	N	Growth2.0_lag+2	0.943270	1.000000	139.25903	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+2	Grey2.0_lag+2	N	Growth2.0_lag+2	1.000000	1.000000	132.015379	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	Grey2.0_lag+2	N	Growth2.0_lag+2	1.000000	1.000000	132.015379	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+ClassN2_lag+2	Perimeter_lag+2	N	Growth2.0_lag+2	0.914005	1.000000	61.453516	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Growth2.1_lag+2	Perimeter_lag+2	N	EqDiameter_lag+2	1.000000	1.000000	62.70954	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+1	Homogeneity_lag+2	N	Energy_lag+2	1.000000	1.000000	85.318834	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	Homogeneity_lag+2	N	Energy_lag+2	1.000000	1.000000	85.318834	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+2	Perimeter_lag+2	N	Growth2.0_lag+2	1.011918	1.000000	59.493013	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag0	Perimeter_lag0	N	Energy_lag0	1.000000	1.000000	208.826414	0	0	332	0	0	NA	NA		0	NA	-1;-1	NA
+Growth2.0_lag+2	Homogeneity_lag+1	N	Energy_lag+2	1.000000	1.000000	71.016373	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Grey2.0_lag+2	Homogeneity_lag+2	N	Growth2.0_lag+2	1.000000	1.000000	139.572146	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Growth2.1_lag+2	Homogeneity_lag+1	N	EqDiameter_lag+2	1.000000	1.000000	63.516835	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Perimeter_lag+1	Perimeter_lag+2	N	EqDiameter_lag+1	1.000000	1.000000	63.038543	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+MeanGreyValue_lag+2	Perimeter_lag+2	N	Growth2.0_lag+2	0.885226	1.000000	62.58165	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+2	MeanGreyValue_lag+1	N	Growth2.0_lag+2	1.077929	1.000000	58.438281	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Growth2.0_lag+2	Solidity_lag+2	N	Correlation_lag+2	1.000000	1.000000	120.656958	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Grey2.0_lag+2	Perimeter_lag+2	N	Growth2.0_lag+2	1.000000	1.000000	49.111223	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+2	Homogeneity_lag0	N	EqDiameter_lag0	1.000000	1.000000	61.100773	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag+1	Perimeter_lag+2	N	Energy_lag+2	1.000000	1.000000	89.804787	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+2	Growth2.1_lag+2	N	Correlation_lag+2	1.000000	1.000000	49.141178	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	MeanGreyValue_lag+1	N	Growth2.0_lag+2	1.086345	1.000000	61.285575	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+2	MeanGreyValue_lag+1	N	Growth2.0_lag+2	1.086345	1.000000	61.285575	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+1	Homogeneity_lag+2	N	EqDiameter_lag+2	1.000000	1.000000	89.89956	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+2	Growth2.0_lag+2	N	Correlation_lag+2	1.000000	1.000000	107.698314	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Grey2.0_lag+2	Growth1.0_lag+1	N	Growth2.0_lag+2	1.000000	1.000000	39.843628	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag0	EqDiameter_lag+2	N	Energy_lag+1	0.890433	1.000000	69.76162	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	Energy_lag0	N	Energy_lag+1	0.890433	1.000000	69.76162	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+2	Energy_lag0	N	EqDiameter_lag0	1.000000	1.000000	78.1302	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+1	Homogeneity_lag0	N	EqDiameter_lag0	1.000000	1.000000	79.604472	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	Homogeneity_lag0	N	EqDiameter_lag0	1.000000	1.000000	79.604472	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+ClassN2_lag+2	Growth1.0_lag+1	N	Growth2.0_lag+2	1.042803	1.000000	40.941976	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag0	Perimeter_lag+1	N	EqDiameter_lag+1	1.000000	1.000000	73.446434	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag0	Perimeter_lag+1	N	EqDiameter_lag+1	1.000000	1.000000	73.446434	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+ClassN2_lag+2	Solidity_lag+2	N	Correlation_lag+2	1.000000	1.000000	125.446556	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+1	Growth2.0_lag+2	N	EqDiameter_lag+2	1.000000	1.000000	51.510243	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	Growth2.0_lag+2	N	EqDiameter_lag+2	1.000000	1.000000	51.510243	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag0	Homogeneity_lag+2	N	Energy_lag+2	1.000000	1.000000	49.429941	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag0	Homogeneity_lag+2	N	Energy_lag+2	1.000000	1.000000	49.429941	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Growth2.1_lag+2	Solidity_lag+2	N	Correlation_lag+2	1.000000	1.000000	62.387944	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+2	Grey2.0_lag+2	N	MeanGreyValue_lag+2	1.000000	1.000000	221.159479	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+ClassN2_lag+2	Homogeneity_lag+1	N	Homogeneity_lag+2	0.900192	1.000000	61.303384	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+2	Grey1.0_lag+1	N	Growth2.0_lag+2	1.000000	1.000000	52.540836	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	Grey1.0_lag+1	N	Growth2.0_lag+2	1.000000	1.000000	52.540836	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+1	Homogeneity_lag0	N	Energy_lag0	1.000000	1.000000	53.161978	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	Perimeter_lag+1	N	Energy_lag+1	1.000000	1.000000	57.839535	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+2	Perimeter_lag+1	N	Energy_lag+1	1.000000	1.000000	57.839535	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+2	Grey1.0_lag+1	N	Growth2.0_lag+2	1.000000	1.000000	53.089083	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Grey2.0_lag+2	Solidity_lag+2	N	Correlation_lag+2	1.000000	1.000000	129.901386	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Growth1.0_lag+1	MeanGreyValue_lag+2	N	Growth2.0_lag+2	1.000000	1.000000	44.067194	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Grey1.0_lag+1	Solidity_lag+2	N	Correlation_lag+2	1.000000	1.000000	49.373483	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+2	Perimeter_lag+1	N	EqDiameter_lag+1	1.000000	1.000000	54.939921	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Growth2.1_lag+2	MeanGreyValue_lag+1	N	MeanGreyValue_lag+2	1.000000	1.000000	87.790835	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+2	Grey1.0_lag+1	N	Correlation_lag+2	1.000000	1.000000	52.65448	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag0	Perimeter_lag+2	N	Energy_lag+1	0.660756	1.000000	66.613025	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag0	EqDiameter_lag+1	N	EqDiameter_lag0	1.000000	1.000000	91.135622	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	Energy_lag0	N	EqDiameter_lag0	1.000000	1.000000	91.135622	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag+1	MeanGreyValue_lag+2	N	Homogeneity_lag+2	1.000000	1.000000	61.35112	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag0	Perimeter_lag+2	N	EqDiameter_lag0	1.000000	1.000000	49.243299	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Perimeter_lag+2	Perimeter_lag0	N	EqDiameter_lag0	1.000000	1.000000	43.619902	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Growth1.0_lag+1	Growth2.1_lag+2	N	Energy_lag+2	1.000000	1.000000	38.793766	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+2	Homogeneity_lag+1	N	Growth2.0_lag+2	0.655314	1.000000	54.016621	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Grey2.0_lag+2	Homogeneity_lag+1	N	Homogeneity_lag+2	1.000000	1.000000	45.183579	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+MeanGreyValue_lag+1	Solidity_lag+2	N	Correlation_lag+2	1.000000	1.000000	70.734365	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+1	Solidity_lag+2	N	Correlation_lag+2	1.000000	1.000000	70.238354	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag0	Perimeter_lag+1	N	Energy_lag+1	1.000000	1.000000	64.654694	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Grey1.0_lag+1	Growth2.1_lag+2	N	MeanGreyValue_lag+2	1.000000	1.000000	72.084055	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+1	Grey1.0_lag+1	N	MeanGreyValue_lag+1	1.000000	1.000000	112.094436	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	Correlation_lag+1	N	Growth2.0_lag+2	0.911842	1.000000	74.702116	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+1	EqDiameter_lag+2	N	Growth2.0_lag+2	0.911842	1.000000	74.702116	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+2	Perimeter_lag0	N	EqDiameter_lag0	1.000000	1.000000	44.136933	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag+1	Perimeter_lag+1	N	EqDiameter_lag+1	1.000000	1.000000	50.602102	0	0	197	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+2	Perimeter_lag0	N	EqDiameter_lag0	1.000000	1.000000	40.889384	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	Perimeter_lag0	N	EqDiameter_lag0	1.000000	1.000000	40.889384	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+1	Energy_lag+2	N	Growth2.0_lag+2	0.963387	1.000000	72.624541	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag+2	Perimeter_lag+2	N	Energy_lag+2	1.000000	1.000000	213.248687	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag0	Homogeneity_lag+1	N	EqDiameter_lag+1	1.000000	1.000000	43.358276	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag0	Homogeneity_lag+1	N	EqDiameter_lag+1	1.000000	1.000000	43.358276	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+2	EqDiameter_lag0	N	Energy_lag+2	1.000000	1.000000	95.388413	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	Area_lag0	N	Energy_lag+2	1.000000	1.000000	95.388413	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+2	ClassN2_lag+2	N	Correlation_lag+2	1.000000	1.000000	115.571294	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	Growth2.1_lag+2	N	Homogeneity_lag+2	1.000000	1.000000	42.872226	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+1	Growth2.1_lag+2	N	Homogeneity_lag+2	1.000000	1.000000	42.872226	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+2	Homogeneity_lag0	N	EqDiameter_lag0	1.000000	1.000000	58.889413	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	Homogeneity_lag0	N	EqDiameter_lag0	1.000000	1.000000	58.889413	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+2	Grey2.0_lag+2	N	Correlation_lag+2	1.000000	1.000000	112.643613	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+1	Energy_lag+1	N	Homogeneity_lag+1	1.000000	1.000000	29.650814	0	0	197	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+2	Correlation_lag+2	N	Solidity_lag+2	1.000000	1.000000	145.168206	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+1	Growth2.1_lag+2	N	Homogeneity_lag+2	1.000000	1.000000	33.421661	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Grey2.0_lag+2	Growth2.0_lag+2	N	Correlation_lag+2	1.000000	1.000000	176.376874	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag0	Homogeneity_lag+2	N	Energy_lag+2	1.000000	1.000000	39.379836	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Growth1.0_lag+1	Solidity_lag+2	N	Growth2.0_lag+2	1.000000	1.000000	37.002979	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+2	Growth1.0_lag+1	N	Correlation_lag+1	1.000000	1.000000	27.245619	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+1	Energy_lag+2	N	Growth2.1_lag+2	1.000000	1.000000	27.224892	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag+2	MeanGreyValue_lag+1	N	ClassN2_lag+2	1.000000	1.000000	74.727797	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag+2	Perimeter_lag+1	N	Perimeter_lag+2	1.000000	1.000000	46.226661	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	Correlation_lag+1	N	Growth1.0_lag+1	0.991473	1.000000	27.752596	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+1	EqDiameter_lag+1	N	Growth1.0_lag+1	0.991473	1.000000	27.752596	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+1	Energy_lag+2	N	EqDiameter_lag+1	1.000000	1.000000	119.604155	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag0	Homogeneity_lag+1	N	Energy_lag+1	1.000000	1.000000	26.542738	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+2	Grey1.0_lag+1	N	MeanGreyValue_lag+2	1.000000	1.000000	82.683797	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+1	MeanGreyValue_lag+2	N	ClassN2_lag+2	1.000000	1.000000	96.964994	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+ClassN2_lag+2	Correlation_lag+2	N	MeanGreyValue_lag+2	1.000000	1.000000	189.530623	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+Grey1.0_lag+1	Growth2.0_lag+2	N	ClassN2_lag+2	1.000000	1.000000	84.725618	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	Solidity_lag+1	N	MeanGreyValue_lag+2	1.000000	1.000000	30.327032	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+2	Solidity_lag+1	N	MeanGreyValue_lag+2	1.000000	1.000000	30.327032	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+2	Correlation_lag+1	N	Correlation_lag+2	1.000000	1.000000	72.366482	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+2	MeanGreyValue_lag+1	N	Correlation_lag+2	1.000000	1.000000	66.037097	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+1	Grey2.0_lag+2	N	Grey1.0_lag+1	1.000000	1.000000	85.525471	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Grey1.0_lag+1	MeanGreyValue_lag+2	N	Grey2.0_lag+2	1.000000	1.000000	98.766569	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+1	Perimeter_lag+2	N	EqDiameter_lag+2	1.000000	1.000000	24.851699	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag+2	Solidity_lag+2	N	MeanGreyValue_lag+2,Perimeter_lag+2	0.785632,0.214368	0.785632,1.000000	104.547215	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+1	Perimeter_lag+2	N	EqDiameter_lag+2	1.000000	1.000000	124.669718	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+1	Growth1.0_lag+1	N	MeanGreyValue_lag+1	1.000000	1.000000	29.446502	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	Perimeter_lag0	N	EqDiameter_lag0	1.000000	1.000000	24.435391	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+1	Perimeter_lag0	N	EqDiameter_lag0	1.000000	1.000000	24.435391	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+1	Growth2.1_lag+2	N	MeanGreyValue_lag+2	1.000000	1.000000	94.276017	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag+1	Homogeneity_lag+2	N	Energy_lag+2	1.000000	1.000000	111.659385	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+2	MeanGreyValue_lag+2	N	Solidity_lag+2	1.000000	1.000000	144.577025	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+2	MeanGreyValue_lag+1	N	MeanGreyValue_lag+2	1.000000	1.000000	107.601172	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+1	Perimeter_lag0	N	EqDiameter_lag0	1.000000	1.000000	24.129393	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Grey2.0_lag+2	MeanGreyValue_lag+1	N	Grey1.0_lag+1	1.000000	1.000000	105.74355	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag0	Perimeter_lag+1	N	EqDiameter_lag0	1.000000	1.000000	42.356537	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+1	MeanGreyValue_lag+1	N	Growth1.0_lag+1	4.094438	1.000000	18.400698	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	MeanGreyValue_lag+1	N	Growth1.0_lag+1	4.094438	1.000000	18.400698	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Grey1.0_lag+1	Homogeneity_lag+2	N	ClassN2_lag+2	1.000000	1.000000	66.865972	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag+1	Solidity_lag+2	N	Growth2.0_lag+2	1.089193	1.000000	28.045868	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag0	Solidity_lag0	N	Circularity_lag0	1.000000	1.000000	41.982564	0	0	332	0	0	NA	NA		0	NA	-1;-1	NA
+Growth1.0_lag+1	Perimeter_lag+1	N	Homogeneity_lag+1	1.000000	1.000000	35.436734	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	Circularity_lag+1	N	Growth2.1_lag+2	1.000000	1.000000	33.189301	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+1	EqDiameter_lag+2	N	Growth2.1_lag+2	1.000000	1.000000	33.189301	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+1	MeanGreyValue_lag+2	N	Growth1.0_lag+1	0.832308	1.000000	36.260514	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	MeanGreyValue_lag+2	N	Growth1.0_lag+1	0.832308	1.000000	36.260514	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+1	MeanGreyValue_lag+1	N	Growth1.0_lag+1	1.499416	1.000000	23.5607	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+1	MeanGreyValue_lag+2	N	Growth1.0_lag+1	0.793485	1.000000	36.453552	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag+1	Homogeneity_lag0	N	EqDiameter_lag+1	1.000000	1.000000	27.547669	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+ClassN2_lag+2	EqDiameter_lag+1	N	Growth1.0_lag+1	0.783741	1.000000	27.058699	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	ClassN2_lag+2	N	Growth1.0_lag+1	0.783741	1.000000	27.058699	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Grey1.0_lag+1	Growth1.0_lag+1	N	Correlation_lag+1	1.000000	1.000000	35.567314	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Growth1.0_lag+1	Perimeter_lag+2	N	Energy_lag+2	1.000000	1.000000	29.281229	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+ClassN2_lag+2	Grey2.0_lag+2	N	MeanGreyValue_lag+2	1.000000	1.000000	188.90637	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+ClassN2_lag+2	Energy_lag+1	N	Growth1.0_lag+1	0.862901	1.000000	25.295283	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+1	Homogeneity_lag+1	N	MeanGreyValue_lag+1	1.000000	1.000000	22.150435	0	0	197	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	Growth1.0_lag+1	N	Homogeneity_lag+1	1.000000	1.000000	61.959585	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+1	Growth1.0_lag+1	N	Homogeneity_lag+1	1.000000	1.000000	61.959585	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Perimeter_lag+2	Solidity_lag+2	N	ClassN2_lag+2,Circularity_lag+2	0.457838,0.542162	0.457838,1.000000	85.383571	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+1	Correlation_lag+2	N	MeanGreyValue_lag+2	1.000000	1.000000	91.79667	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+2	Growth2.0_lag+2	N	EqDiameter_lag+2	1.000000	1.000000	232.6583	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag+2	Solidity_lag+1	N	ClassN2_lag+2	1.000000	1.000000	35.952581	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+2	Solidity_lag+1	N	MeanGreyValue_lag+2	1.000000	1.000000	28.340835	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+2	Growth2.1_lag+2	N	EqDiameter_lag+2	1.000000	1.000000	110.328501	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag+1	Solidity_lag+1	N	Correlation_lag+1	1.000000	1.000000	20.77092	0	0	197	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+1	Growth2.0_lag+2	N	ClassN2_lag+2	1.000000	1.000000	92.727401	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Grey2.0_lag+2	Solidity_lag+1	N	MeanGreyValue_lag+2	1.000000	1.000000	34.482023	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag+2	Homogeneity_lag0	N	Energy_lag+2	1.000000	1.000000	25.766993	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Growth2.0_lag+2	Solidity_lag+1	N	MeanGreyValue_lag+2	1.000000	1.000000	39.597699	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+2	EqDiameter_lag+1	N	MeanGreyValue_lag+2	1.000000	1.000000	25.132373	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	Correlation_lag+2	N	MeanGreyValue_lag+2	1.000000	1.000000	25.132373	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+1	Grey2.0_lag+2	N	Growth2.0_lag+2	1.000000	1.000000	20.186134	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	Grey2.0_lag+2	N	Growth2.0_lag+2	1.000000	1.000000	20.186134	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Growth1.0_lag+1	Solidity_lag+1	N	MeanGreyValue_lag+1	1.000000	1.000000	24.662989	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+1	Grey1.0_lag+1	N	Correlation_lag+1	1.000000	1.000000	35.775373	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	Homogeneity_lag+2	N	Energy_lag+2	1.000000	1.000000	313.473376	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+2	Homogeneity_lag+2	N	Energy_lag+2	1.000000	1.000000	313.473376	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+1	Grey2.0_lag+2	N	Growth2.0_lag+2	1.000000	1.000000	19.532761	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+1	Grey1.0_lag+1	N	Correlation_lag+1	1.000000	1.000000	19.544846	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+2	Energy_lag+1	N	Homogeneity_lag+1	1.000000	1.000000	19.505058	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+2	Perimeter_lag+2	N	Energy_lag+2	1.000000	1.000000	247.527755	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	Perimeter_lag+2	N	Energy_lag+2	1.000000	1.000000	247.527755	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	Solidity_lag+2	N	EqDiameter_lag+2	1.000000	1.000000	29.784137	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+1	Solidity_lag+2	N	EqDiameter_lag+2	1.000000	1.000000	29.784137	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+1	Grey1.0_lag+1	N	Correlation_lag+1	1.000000	1.000000	18.704888	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	Grey1.0_lag+1	N	Correlation_lag+1	1.000000	1.000000	18.704888	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Perimeter_lag+2	Solidity_lag+1	N	Homogeneity_lag+2	1.000000	1.000000	18.534641	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+1	Growth2.0_lag+2	N	MeanGreyValue_lag+2	1.000000	1.000000	36.916824	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+2	Solidity_lag+1	N	Solidity_lag+2	1.000000	1.000000	40.287719	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+1	Perimeter_lag+2	N	Homogeneity_lag+2	1.000000	1.000000	18.149952	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+1	Grey2.0_lag+2	N	MeanGreyValue_lag+2	1.000000	1.000000	37.191063	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+1	Energy_lag+1	N	Correlation_lag+1	1.000000	1.000000	18.026684	0	0	197	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+1	EqDiameter_lag+2	N	Energy_lag+2	1.000000	1.000000	135.145252	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	EqDiameter_lag+2	N	Energy_lag+2	1.000000	1.000000	135.145252	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	Area_lag+2	N	Energy_lag+2	1.000000	1.000000	135.145252	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	EqDiameter_lag+1	N	Energy_lag+2	1.000000	1.000000	135.145252	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+2	Homogeneity_lag+1	N	EqDiameter_lag+2	1.000000	1.000000	17.904586	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+1	Homogeneity_lag+2	N	Growth2.1_lag+2	1.000000	1.000000	38.431428	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+1	Circularity_lag+2	N	Correlation_lag+2	1.000000	1.000000	42.457948	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+1	Energy_lag0	N	EqDiameter_lag0	1.000000	1.000000	110.654629	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+MeanGreyValue_lag+1	Perimeter_lag+2	N	Homogeneity_lag+1	1.000000	1.000000	17.73779	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Growth2.1_lag+2	Homogeneity_lag+2	N	EqDiameter_lag+2,Correlation_lag+1	0.912048,0.087952	0.912048,1.000000	130.222498	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Perimeter_lag+1	Perimeter_lag0	N	EqDiameter_lag0	1.000000	1.000000	17.497228	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+1	Solidity_lag+1	N	Correlation_lag+1	1.000000	1.000000	17.416955	0	0	197	0	0	NA	NA		0	NA	-1;-1	NA
+Perimeter_lag0	Solidity_lag0	N	Circularity_lag0	1.000000	1.000000	142.483634	0	0	332	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+1	Solidity_lag+2	N	EqDiameter_lag+2	1.000000	1.000000	17.430849	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Grey1.0_lag+1	Perimeter_lag+2	N	Energy_lag+2	1.000000	1.000000	17.170733	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Grey2.0_lag+2	Growth2.1_lag+2	N	MeanGreyValue_lag+2	1.000000	1.000000	94.557462	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	Circularity_lag+1	N	Correlation_lag+1	1.000000	1.000000	16.902729	0	0	197	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+1	EqDiameter_lag+1	N	Correlation_lag+1	1.000000	1.000000	16.902729	0	0	197	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag0	Circularity_lag0	N	Energy_lag0	1.000000	1.000000	43.68289	0	0	332	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag0	EqDiameter_lag0	N	Energy_lag0	1.000000	1.000000	43.68289	0	0	332	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+1	Homogeneity_lag+1	N	Growth1.0_lag+1,MeanGreyValue_lag+1	0.703525,0.181917	0.794547,1.000000	48.320743	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Growth1.0_lag+1	MeanGreyValue_lag+1	N	Correlation_lag+1	1.000000	1.000000	41.361512	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+MeanGreyValue_lag+1	Solidity_lag+1	N	Circularity_lag+1	1.000000	1.000000	53.106357	0	0	197	0	0	NA	NA		0	NA	-1;-1	NA
+ClassN2_lag+2	Correlation_lag+1	N	MeanGreyValue_lag+1	1.000000	1.000000	117.620861	0	0	197	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag+1	Perimeter_lag0	N	EqDiameter_lag+1	1.000000	1.000000	20.658359	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+1	Growth2.0_lag+2	N	EqDiameter_lag+2,Growth2.1_lag+2	0.787691,0.212309	0.787691,1.000000	52.674687	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Grey1.0_lag+1	Solidity_lag+1	N	Correlation_lag+1	1.000000	1.000000	38.450761	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+1	MeanGreyValue_lag+2	N	Growth2.1_lag+2	1.000000	1.000000	40.596476	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	Solidity_lag+1	N	Correlation_lag+1	1.000000	1.000000	18.040788	0	0	197	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+1	Solidity_lag+1	N	Correlation_lag+1	1.000000	1.000000	18.040788	0	0	197	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+1	Homogeneity_lag+1	N	EqDiameter_lag+1	1.000000	1.000000	128.335519	0	0	197	0	0	NA	NA		0	NA	-1;-1	NA
+Growth2.1_lag+2	Solidity_lag+1	N	Circularity_lag+1	1.000000	1.000000	46.621414	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+2	Energy_lag+1	N	MeanGreyValue_lag+2	1.000000	1.000000	15.049977	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+MeanGreyValue_lag+2	Solidity_lag+2	N	Correlation_lag+2	1.000000	1.000000	159.059432	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	MeanGreyValue_lag+2	N	Growth2.0_lag+2,EqDiameter_lag+1	0.954847,0.037438	0.948869,1.000000	161.688404	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+2	EqDiameter_lag+1	N	Grey2.0_lag+2	2.005083	1.000000	14.770981	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	Circularity_lag+2	N	Grey2.0_lag+2	2.005083	1.000000	14.770981	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag0	Homogeneity_lag0	N	Energy_lag0	1.000000	1.000000	46.002829	0	0	332	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag0	Growth2.0_lag+2	N	Energy_lag0	1.000000	1.000000	29.259702	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag0	Growth2.0_lag+2	N	Energy_lag0	1.000000	1.000000	29.259702	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag0	EqDiameter_lag+2	N	EqDiameter_lag+1,Energy_lag+2	0.510257,0.091742	0.847604,1.000000	95.388413	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	EqDiameter_lag0	N	EqDiameter_lag+1,Energy_lag+2	0.510257,0.091742	0.847604,1.000000	95.388413	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Growth2.0_lag+2	MeanGreyValue_lag+1	N	ClassN2_lag+2	1.000000	1.000000	96.240482	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+2	Solidity_lag+1	N	Circularity_lag+1	1.000000	1.000000	46.15592	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag0	Perimeter_lag+2	N	EqDiameter_lag0	1.000000	1.000000	18.992994	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Growth2.0_lag+2	Homogeneity_lag+2	N	EqDiameter_lag+2,ClassN2_lag+2	0.977200,0.022800	0.977200,1.000000	231.045452	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag0	Solidity_lag0	N	Circularity_lag0	1.000000	1.000000	36.893739	0	0	332	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+1	Solidity_lag+2	N	Growth2.1_lag+2,Solidity_lag+1	0.766241,0.233759	0.766241,1.000000	40.747831	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag+2	Perimeter_lag0	N	Energy_lag+2	1.000000	1.000000	24.833169	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag0	Perimeter_lag+2	N	EqDiameter_lag+1,Energy_lag+2	0.692236,0.063223	0.916312,1.000000	80.503083	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag0	Perimeter_lag+2	N	EqDiameter_lag+1,Energy_lag+2	0.692236,0.063223	0.916312,1.000000	80.503083	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+2	EqDiameter_lag0	N	EqDiameter_lag+1,Growth2.1_lag+2	0.402146,0.144213	0.736047,1.000000	117.732427	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag0	Energy_lag+2	N	EqDiameter_lag+1,Growth2.1_lag+2	0.402146,0.144213	0.736047,1.000000	117.732427	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+2	Grey2.1_lag+2	N	MeanGreyValue_lag+2	1.000000	1.000000	12.927128	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+2	Perimeter_lag+2	N	Solidity_lag+2	1.000000	1.000000	86.956783	0	0	335	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+2	MeanGreyValue_lag+2	N	Growth2.0_lag+2,EqDiameter_lag+2	0.957280,0.022461	0.977074,1.000000	166.455136	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Homogeneity_lag+2	MeanGreyValue_lag+2	N	Growth2.0_lag+2,Homogeneity_lag+1	0.908672,0.022152	0.976892,1.000000	160.703578	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+2	EqDiameter_lag+2	N	Growth2.0_lag+2,MeanGreyValue_lag+2	0.940474,0.028259	0.970828,1.000000	152.483669	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	Correlation_lag+2	N	Growth2.0_lag+2,MeanGreyValue_lag+2	0.940474,0.028259	0.970828,1.000000	152.483669	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	Perimeter_lag+2	N	Energy_lag+2,MeanGreyValue_lag+2	0.963593,0.036407	0.963593,1.000000	116.288277	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+1	Perimeter_lag+2	N	Energy_lag+2,MeanGreyValue_lag+2	0.963593,0.036407	0.963593,1.000000	116.288277	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+MeanGreyValue_lag+2	Solidity_lag+1	N	Solidity_lag+2	1.000000	1.000000	41.079461	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag0	MeanGreyValue_lag0	N	Homogeneity_lag0	1.000000	1.000000	12.739785	0	0	332	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+1	EqDiameter_lag0	N	EqDiameter_lag+1	1.000000	1.000000	124.037135	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag0	Energy_lag+1	N	EqDiameter_lag+1	1.000000	1.000000	124.037135	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	Growth1.0_lag+1	N	Growth2.0_lag+2,Homogeneity_lag+2	0.949205,0.050795	0.949205,1.000000	64.146247	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+2	Growth1.0_lag+1	N	Growth2.0_lag+2,Homogeneity_lag+2	0.949205,0.050795	0.949205,1.000000	64.146247	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+2	Growth2.0_lag+2	N	Growth2.1_lag+2,ClassN2_lag+2	0.381463,0.036313	0.913080,1.000000	207.851563	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+1	Solidity_lag+1	N	Circularity_lag+1	1.000000	1.000000	50.194503	0	0	197	0	0	NA	NA		0	NA	-1;-1	NA
+Grey1.0_lag+1	Homogeneity_lag+1	N	MeanGreyValue_lag+1	1.000000	1.000000	43.368717	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Growth2.0_lag+2	Perimeter_lag+1	N	EqDiameter_lag+2	1.000000	1.000000	19.105184	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+ClassN2_lag+2	Solidity_lag+1	N	Circularity_lag+1	1.000000	1.000000	47.926426	0	0	197	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+1	ClassN2_lag+2	N	Growth2.1_lag+2	0.904778	1.000000	44.515908	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag0	EqDiameter_lag+1	N	Grey1.0_lag+1	1.000000	1.000000	12.537197	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	Correlation_lag0	N	Grey1.0_lag+1	1.000000	1.000000	12.537197	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+2	Growth2.1_lag+2	N	Growth2.0_lag+2,MeanGreyValue_lag+2	0.848304,0.016229	0.981228,1.000000	127.733972	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	Growth2.1_lag+2	N	Growth2.0_lag+2,MeanGreyValue_lag+2	0.848304,0.016229	0.981228,1.000000	127.733972	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+2	Homogeneity_lag+1	N	Energy_lag+2	1.000000	1.000000	124.982607	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+2	Homogeneity_lag+1	N	Energy_lag+2	1.000000	1.000000	124.982607	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Energy_lag+2	Growth1.0_lag+1	N	Growth2.0_lag+2,Homogeneity_lag+2	0.968928,0.031072	0.968928,1.000000	66.75825	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag0	Growth1.0_lag+1	N	Grey1.0_lag+1	1.000000	1.000000	12.957861	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+ClassN2_lag+2	Growth2.1_lag+2	N	MeanGreyValue_lag+2,Homogeneity_lag+2	0.984000,0.016000	0.984000,1.000000	91.034691	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+1	Correlation_lag+2	N	Growth2.1_lag+2	1.000000	1.000000	45.259453	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag0	Homogeneity_lag+1	N	EqDiameter_lag+1	1.000000	1.000000	10.834297	0	0	181	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag0	Solidity_lag0	N	Circularity_lag0	1.000000	1.000000	42.714132	0	0	332	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag0	Solidity_lag0	N	Circularity_lag0	1.000000	1.000000	42.714132	0	0	332	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+1	Homogeneity_lag+2	N	Growth2.0_lag+2,ClassN2_lag+2	0.733897,0.067435	0.915847,1.000000	77.790151	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Circularity_lag+1	Correlation_lag+1	N	MeanGreyValue_lag+1	1.000000	1.000000	47.037573	0	0	197	0	0	NA	NA		0	NA	-1;-1	NA
+ClassN2_lag+2	MeanGreyValue_lag+1	N	Grey1.0_lag+1,Growth2.1_lag+2	0.919758,0.006296	0.999976,1.000000	124.33017	0	0	172	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag0	Solidity_lag0	N	Circularity_lag0	1.000000	1.000000	10.817219	0	0	332	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag+1	Perimeter_lag+1	N	Homogeneity_lag+1	1.000000	1.000000	10.338927	0	0	197	0	0	NA	NA		0	NA	-1;-1	NA
+ClassN2_lag+2	Growth2.0_lag+2	N	MeanGreyValue_lag+2,Homogeneity_lag+2	0.997681,0.002319	0.997681,1.000000	172.207383	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
+Growth2.1_lag+2	Perimeter_lag+1	N	ClassN2_lag+2	1.000000	1.000000	10.147487	0	0	187	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag+1	Perimeter_lag+1	N	Energy_lag+1	1.000000	1.000000	125.656639	0	0	197	0	0	NA	NA		0	NA	-1;-1	NA
+EqDiameter_lag+1	Perimeter_lag+1	N	Energy_lag+1	1.000000	1.000000	125.656639	0	0	197	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag0	EqDiameter_lag0	N	Energy_lag0	1.000000	1.000000	12.708276	0	0	332	0	0	NA	NA		0	NA	-1;-1	NA
+Area_lag0	Correlation_lag0	N	Energy_lag0	1.000000	1.000000	12.708276	0	0	332	0	0	NA	NA		0	NA	-1;-1	NA
+Correlation_lag0	Grey2.0_lag+2	N	MeanGreyValue_lag0	1.000000	1.000000	23.833039	0	0	316	0	0	NA	NA		0	NA	-1;-1	NA
